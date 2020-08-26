@@ -13,16 +13,16 @@
 
 Hi, I'm Xiboon, a passionate self-taught web developer from Poland.
 
-- 🔭 I’m currently working on my project [Xenith](https://github.com/Xiboon/Xenith) And [MemeAPI](https://api.xenith.pl/memeapi)
+- 🔭 I’m currently working on my project [Xenith](https://github.com/Xiboon/Xenith) and [MemeAPI](https://api.xenith.pl/memeapi)
 - 💬 Ask me about anything [here](https://discord.gg/7mdNBrE)
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://www.mateuszcholewa.pl/wp-content/uploads/2016/10/HTML5.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"> </code>
-<code><img height="20" src="https://logonoid.com/images/webstorm-logo.png"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://www.mateuszcholewa.pl/wp-content/uploads/2016/10/HTML5.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"> </code>
+<code><img height="25" src="https://logonoid.com/images/webstorm-logo.png"> </code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <!--- 
   if you have forked this to use on your profile, 
