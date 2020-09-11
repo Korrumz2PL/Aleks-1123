@@ -37,5 +37,6 @@ Hi, I'm Xiboon, a passionate self-taught web developer from Poland.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xiboon&show_icons=true&include_all_commits=true" alt="Xiboon's github statss" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-
-
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiboon&layout=compact" />
+</a>
