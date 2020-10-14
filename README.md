@@ -13,7 +13,7 @@
 
 Hi, I'm Xiboon, a passionate self-taught web developer from Poland.
 
-- 🔭 I’m currently working on my projects: [Xenith](https://github.com/Xiboon/Xenith), [MemeAPI](https://api.xenith.pl/memeapi) and [PiesAPI](https://api.xenith.pl/piesapi).
+- 🔭 I’m currently working on my projects: [Xenith](https://github.com/Xiboon/Xenith), HitBot, [MemeAPI](https://api.xenith.pl/memeapi) and [PiesAPI](https://api.xenith.pl/piesapi).
 - 💬 Ask me about anything [here](https://discord.gg/7mdNBrE)
 
 **Languages and Tools:**  
