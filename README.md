@@ -4,16 +4,13 @@
 <a href="https://twitter.com/hxiboon">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/7mdNBrE">
-  <img align="left" alt="Xiboon's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
 
 <br />
 <br />
 
 Hi, I'm Xiboon, a passionate self-taught web developer from Poland.
 
-- 🔭 I’m currently working on my projects: [Xenith](https://github.com/Xiboon/Xenith), [GuestBook](https://github.com/Xiboon/Guest-Book), [MemeAPI](https://api.xenith.pl/memeapi) and [PiesAPI](https://api.xenith.pl/piesapi).
+- 🔭 I’m currently working on  [GuestBook](https://github.com/Xiboon/Guest-Book)
 - 💬 Ask me about anything [here](https://discord.gg/7mdNBrE)
 
 **Languages and Tools:**  
