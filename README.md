@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Xiboon, a passionate self-taught web developer from Poland.
+Hi, I'm Aleks, backend Developer
 
 - 🔭 I’m currently working on  [Lambda](https://lambdabot.xyz)
 - 💬 Ask me about anything [here](http://lambdabot.xyz)
