@@ -1,7 +1,7 @@
 ### Hi there, I'm [Aleks!](https://aleks.ovh/) 👋
 
 
-<a href="https://twitter.com/hxiboon">
+<a href="https://twitter.com/Aleks_1123">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
